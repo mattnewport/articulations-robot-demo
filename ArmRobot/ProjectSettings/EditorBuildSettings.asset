@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MovingHandSolo.unity
     guid: d7c40e5832a6949f5b3a1ea2adb7fdc7
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e8b46e5c6f6a12d4fb1991c88a1c4e01,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a0fd49e3606c2374a8b9ee4d8e1b62e4,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 91fdabb32970d3741a306364fc97662d,
+      type: 2}
